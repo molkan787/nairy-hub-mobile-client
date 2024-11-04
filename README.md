@@ -1,3 +1,8 @@
+---
+author: Seghier Dahmane
+email: seghier.dahmane@outlook.com
+---
+
 # nairy_hub
 
 Tasks Managements Hub
